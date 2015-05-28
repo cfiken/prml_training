@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 ##############
 
 M = 9	# dimension
-N = 10	# number of data
+N = 50	# number of data
 
-noise_variance = 0.2
+noise_variance = 0.3
 
 
 def makeData(x):
